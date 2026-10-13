@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample-p13n--engine",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Personalization for responsive table",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

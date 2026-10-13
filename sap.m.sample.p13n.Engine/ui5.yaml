@@ -1,0 +1,11 @@
+specVersion: "4.0"
+metadata:
+  name: sap-m-sample-p13n--engine
+type: application
+framework:
+  name: SAPUI5
+  version: "1.153.0"
+  libraries:
+    - name: themelib_sap_horizon
+    - name: sap.ui.fl
+    - name: sap.ui.layout
